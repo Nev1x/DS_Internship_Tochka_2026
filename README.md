@@ -52,3 +52,4 @@
    train_path = "/content/drive/MyDrive/.../train.parquet"
    test_path  = "/content/drive/MyDrive/.../test.parquet"
 
+## Финальная метрика F1 в проетке = 0.9106
